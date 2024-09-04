@@ -3,6 +3,7 @@
 Este repositório contém as soluções dos desafios propostos pela Target Sistemas durante o processo de recrutamento. As soluções foram implementadas utilizando a linguagem JavaScript.
 
 ## Soluções dos Desafios
+Você pode clicar [AQUI](https://desafio-kelbia-d51fce.netlify.app/) e ver a página no ar com os resultados funcionando, ou rolar abaixo e ver as soluções detalhadamente.
 
 Abaixo estão detalhadas as soluções de cada um dos desafios propostos:
 
